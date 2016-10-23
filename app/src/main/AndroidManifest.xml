@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="xwc.andorid.appquickstart.demo">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name="xwc.andorid.quickstart.SkinApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.Activity">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SkinSettingActivity" />
+        <activity android:name=".TestActivity1" />
+        <activity android:name=".TestActivity2" />
+        <activity android:name=".TestActivity3" />
+        <activity android:name=".TestActivity4" />
+        <activity android:name=".TestActivity5" />
+        <activity android:name=".TestActivity6" />
+        <activity android:name=".TestActivity7" android:configChanges="keyboardHidden|orientation|screenSize" />
+        <activity android:name=".TestActivity8" />
+    </application>
+
+</manifest>

@@ -1,0 +1,32 @@
+<resources>
+    <style name="AppTheme.Activity.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="AppTheme.Activity.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <color name="Default">@color/colorPrimary</color>
+    <color name="Teal">#009688</color>
+    <color name="Blue">#2196F3</color>
+    <color name="Brown">#795548</color>
+    <color name="Orange">#FF9800</color>
+
+    <style name="AppTheme.Activity.Teal" parent="@style/AppTheme.Activity">
+        <item name="colorPrimary">#009688</item>
+        <item name="colorPrimaryDark">#00796B</item>
+        <item name="colorAccent">#FFC107</item>
+    </style>
+    <style name="AppTheme.Activity.Blue" parent="@style/AppTheme.Activity">
+        <item name="colorPrimary">#2196F3</item>
+        <item name="colorPrimaryDark">#1976D2</item>
+        <item name="colorAccent">#E040FB</item>
+    </style>
+    <style name="AppTheme.Activity.Brown" parent="@style/AppTheme.Activity">
+        <item name="colorPrimary">#795548</item>
+        <item name="colorPrimaryDark">#5D4037</item>
+        <item name="colorAccent">#009688</item>
+    </style>
+    <style name="AppTheme.Activity.Orange" parent="@style/AppTheme.Activity">
+        <item name="colorPrimary">#FF9800</item>
+        <item name="colorPrimaryDark">#F57C00</item>
+        <item name="colorAccent">#E040FB</item>
+    </style>
+
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    tools:context="xwc.andorid.appquickstart.demo.TestActivity6">
+
+    <xwc.andorid.appquickstart.demo.view.IncreaseView
+        android:id="@+id/increaseView"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_centerInParent="true" />
+
+    <TextView
+        android:id="@+id/text_db"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/increaseView"
+        android:gravity="center"
+        android:visibility="invisible"
+        android:lines="1"
+        android:text="0dB"
+        android:textColor="?attr/colorPrimary"
+        android:textSize="48dp" />
+
+
+    <Button
+        android:id="@+id/btn_start"
+        style="@style/Widget.AppCompat.Button.Borderless.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/btn_bg_border"
+        android:drawablePadding="4dp"
+        android:paddingLeft="32dp"
+        android:paddingRight="32dp"
+        android:text="按住说话"
+        android:textSize="16sp" />
+
+</RelativeLayout>

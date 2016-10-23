@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="xwc.android.applibrary.activity.WebPagerActivity">
+    <item
+        android:id="@+id/action_scan"
+        android:orderInCategory="100"
+        android:title="Scan"
+        android:icon="@mipmap/ic_qr_scan"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="200"
+        android:title="About ZXing"
+        app:showAsAction="never" />
+</menu>

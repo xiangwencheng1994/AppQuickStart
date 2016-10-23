@@ -1,0 +1,1 @@
+include ':app', ':quickstart', 'mp3recorder', ':zxing-android-embedded'

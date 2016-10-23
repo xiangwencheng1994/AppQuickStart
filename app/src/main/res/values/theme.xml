@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Custom AppTheme Activity Style used by Activity which extends ImmersiveActivity -->
+    <!-- More details @see http://wiki.jikexueyuan.com/project/material-design/style/color.html -->
+    <style name="AppTheme.Activity" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="actionBarSize">56dp<!--ActionBar Height--></item>
+    </style>
+    <!-- Custom Toolbar Style -->
+    <style name="AppTheme.Toolbar" parent="ThemeOverlay.AppCompat.Dark" />
+
+</resources>

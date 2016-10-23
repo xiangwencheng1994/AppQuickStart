@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/media/xwc/Work/AndroidStudioProjects/AppQuickStart/zxing-android-embedded/build/intermediates/res/merged/release/mipmap-xxhdpi-v4/ic_beep_close.png",
+        "source": "/media/xwc/Work/AndroidStudioProjects/AppQuickStart/zxing-android-embedded/res/mipmap-xxhdpi/ic_beep_close.png"
+    },
+    {
+        "merged": "/media/xwc/Work/AndroidStudioProjects/AppQuickStart/zxing-android-embedded/build/intermediates/res/merged/release/mipmap-xxhdpi-v4/ic_light_close.png",
+        "source": "/media/xwc/Work/AndroidStudioProjects/AppQuickStart/zxing-android-embedded/res/mipmap-xxhdpi/ic_light_close.png"
+    },
+    {
+        "merged": "/media/xwc/Work/AndroidStudioProjects/AppQuickStart/zxing-android-embedded/build/intermediates/res/merged/release/mipmap-xxhdpi-v4/ic_beep_open.png",
+        "source": "/media/xwc/Work/AndroidStudioProjects/AppQuickStart/zxing-android-embedded/res/mipmap-xxhdpi/ic_beep_open.png"
+    },
+    {
+        "merged": "/media/xwc/Work/AndroidStudioProjects/AppQuickStart/zxing-android-embedded/build/intermediates/res/merged/release/mipmap-xxhdpi-v4/ic_img_file_open.png",
+        "source": "/media/xwc/Work/AndroidStudioProjects/AppQuickStart/zxing-android-embedded/res/mipmap-xxhdpi/ic_img_file_open.png"
+    },
+    {
+        "merged": "/media/xwc/Work/AndroidStudioProjects/AppQuickStart/zxing-android-embedded/build/intermediates/res/merged/release/mipmap-xxhdpi-v4/toolbar_icon_back.png",
+        "source": "/media/xwc/Work/AndroidStudioProjects/AppQuickStart/zxing-android-embedded/res/mipmap-xxhdpi/toolbar_icon_back.png"
+    },
+    {
+        "merged": "/media/xwc/Work/AndroidStudioProjects/AppQuickStart/zxing-android-embedded/build/intermediates/res/merged/release/mipmap-xxhdpi-v4/ic_light_open.png",
+        "source": "/media/xwc/Work/AndroidStudioProjects/AppQuickStart/zxing-android-embedded/res/mipmap-xxhdpi/ic_light_open.png"
+    },
+    {
+        "merged": "/media/xwc/Work/AndroidStudioProjects/AppQuickStart/zxing-android-embedded/build/intermediates/res/merged/release/mipmap-xxhdpi-v4/ic_img_file_close.png",
+        "source": "/media/xwc/Work/AndroidStudioProjects/AppQuickStart/zxing-android-embedded/res/mipmap-xxhdpi/ic_img_file_close.png"
+    }
+]

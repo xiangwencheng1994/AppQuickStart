@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Copy this file to you project and modify it -->
+
+    <!-- Custom AppTheme Activity Style used by Activity which extends ImmersiveActivity -->
+    <!-- More details @see http://wiki.jikexueyuan.com/project/material-design/style/color.html -->
+    <style name="AppTheme.Activity" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#3F51B5</item>
+        <item name="colorPrimaryDark">#303F9F</item>
+        <item name="colorAccent">#FF4081</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <!--ActionBar Height-->
+        <item name="actionBarSize">56dp</item>
+    </style>
+    <!-- Custom Toolbar Style used by Toolbar@R.id.toolbar@R.layout.activity_immersive_base -->
+    <style name="AppTheme.Toolbar" parent="ThemeOverlay.AppCompat.Dark" />
+
+</resources>

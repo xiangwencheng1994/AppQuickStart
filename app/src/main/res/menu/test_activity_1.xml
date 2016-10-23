@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="xwc.android.applibrary.activity.WebPagerActivity">
+    <item
+        android:id="@+id/action_search"
+        android:orderInCategory="100"
+        android:title="Search"
+        android:icon="@mipmap/ic_action_search"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_snackBar"
+        android:orderInCategory="200"
+        android:title="Show SnackBar"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_dialog"
+        android:orderInCategory="300"
+        android:title="Show Dialog"
+        app:showAsAction="never" />
+</menu>
