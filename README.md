@@ -5,4 +5,4 @@
 ###  |--mp3recorder AudioRecorder录制MP3库
 ###  |--quickstart 快速构建基于AppCampatv7的App库
 ###  |--zxing-android-embedded 二维码编解码和通用扫描库
-##默认mini sdk version 15.
+## 默认mini sdk version 15，使用android studio2.2开发
